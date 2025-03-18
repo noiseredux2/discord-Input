@@ -1,40 +1,12 @@
 <h1 align="center">discord-input</h1>
-  
-<p align="center">
-  <a href="#discord-dyslexia">Overview</a> |
-  <a href="#installation">Installation</a> |
-  <a href="#credits">Credits</a>
-</p>
 
-<p align="center">
-  <img alt="Preview" width="860" alt="preview" src="https://i.imgur.com/cCINa4T.png">
-<p align="center">
-
-<p align="center">A simple discord theme which makes the app more accommodating to people with dyslexia.</p>
-
+<p align="center"> https://input.djr.com/preview/?size=14&language=python&theme=default&family=InputSans&width=300&weight=300&line-height=1.2&a=ss&g=ss&i=serifs&l=serifs&zero=slash&asterisk=0&braces=0&preset=monaco&customize=please </p>
+<p align="center"> this is the preview of the settings i used, have fun </p>
 ---
 
 # Installation
+idk i use vencord and i just link the css file in themes
 
-### BetterDiscord
-
-1. Download the theme file [here](https://betterdiscord.net/ghdl?id=3474).
-2. Open your BetterDiscord themes folder.
-3. Drag the file you downloaded into the folder. Ensure there isn't a copy identifier (eg `Name.theme(1).css`) at the end of the filename.
-
-### Powercord
-
-> Ensure you have [git](https://git-scm.com/) installed before downloading powercord or vizality related content.
-
-1. Open your terminal of choice.
-2. Run `cd powercord/src/Powercord/themes && git clone https://github.com/DiscordStyles/discord-dyslexia`.
-
-### Vizality
-
-> Ensure you have [git](https://git-scm.com/) installed before downloading powercord or vizality related content.
-
-1. Open your terminal of choice.
-2. Run `cd vizality/addons/themes && git clone https://github.com/DiscordStyles/discord-dyslexia`.
 
 # Credits
 - [OpenDyslexic font](https://opendyslexic.org/)

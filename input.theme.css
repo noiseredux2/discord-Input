@@ -17,8 +17,8 @@
 /* SETTINGS */
 
 :root {
-    --word-spacing: 0px;       /* Word spacing */
-    --letter-spacing: 0px;  /* Letter Spacing */
-    --message-line-spacing: 0; /* Line spacing on messages */
+    --word-spacing: 3px;       /* Word spacing */
+    --letter-spacing: 0.25px;  /* Letter Spacing */
+    --message-line-spacing: 2; /* Line spacing on messages */
 }
 /* ----------------------------------------------------------------------- */

@@ -11,3 +11,5 @@ idk i use vencord and i just link the css file in themes
 # Credits
 - [David Jonathan Ross](https://input.djr.com/)
 - [Qwerasd205](https://github.com/qwerasd205)
+
+BTW THIS IS FOR PERSONAL USE ONLY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

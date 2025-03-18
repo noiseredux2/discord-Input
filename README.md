@@ -9,5 +9,5 @@ idk i use vencord and i just link the css file in themes
 
 
 # Credits
-- [OpenDyslexic font](https://opendyslexic.org/)
+- [David Jonathan Ross](https://input.djr.com/)
 - [Qwerasd205](https://github.com/qwerasd205)

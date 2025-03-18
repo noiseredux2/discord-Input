@@ -19,6 +19,6 @@
 :root {
     --word-spacing: 0.2px;       /* Word spacing */
     --letter-spacing: 0.00px;  /* Letter Spacing */
-    --message-line-spacing: 0; /* Line spacing on messages */
+    --message-line-spacing: 2; /* Line spacing on messages */
 }
 /* ----------------------------------------------------------------------- */

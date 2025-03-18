@@ -1,4 +1,4 @@
-<h1 align="center">discord-dyslexia</h1>
+<h1 align="center">discord-input</h1>
   
 <p align="center">
   <a href="#discord-dyslexia">Overview</a> |
